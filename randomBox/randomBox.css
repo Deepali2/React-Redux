@@ -1,0 +1,10 @@
+.box {
+  height: 200px;
+  width: 200px;  
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
